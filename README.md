@@ -1,2 +1,3 @@
 # Python-basix
-Cheatsheets
+Cheatsheet for Python!
+Zero to Hero!
